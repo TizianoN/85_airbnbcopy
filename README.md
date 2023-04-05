@@ -1,4 +1,4 @@
-- [REALIZZARE UNA CRUD](#make-a-crud)
+- [REALIZZARE UNA CRUD](#realizzare-una-crud)
 - [Creare il Resource Model](## Creare il Resource Model)
 - [Creare la Migration](## Creare la Migration)
 - [Creare il Seeder](## Creare il Seeder)
