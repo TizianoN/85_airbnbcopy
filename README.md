@@ -1,4 +1,4 @@
-- [# REALIZZARE UNA CRUD](make-a-crud)
+- [REALIZZARE UNA CRUD](#make-a-crud)
 - [Creare il Resource Model](## Creare il Resource Model)
 - [Creare la Migration](## Creare la Migration)
 - [Creare il Seeder](## Creare il Seeder)
@@ -19,7 +19,7 @@
 - [La validazione](##La validazione)
 
 
-[# REALIZZARE UNA CRUD](make-a-crud)
+# REALIZZARE UNA CRUD
 
 ## Creare il Resource Model
 
