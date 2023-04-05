@@ -19,9 +19,7 @@
 - [La validazione](##La validazione)
 
 
-<a name="make-a-crud">
-# REALIZZARE UNA CRUD
-</a>
+[# REALIZZARE UNA CRUD](make-a-crud)
 
 ## Creare il Resource Model
 
